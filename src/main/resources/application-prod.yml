@@ -1,0 +1,12 @@
+spring:
+  config:
+    import: aws-parameterstore:/config/application_prod/
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+  cloud:
+    aws:
+      s3:
+        bucket: my-name-camp-profile-bucket

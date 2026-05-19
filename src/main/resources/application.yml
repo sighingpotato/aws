@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: prod
+    group:
+      local: local
+      prod: prod
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    team-name: ${team-name}
