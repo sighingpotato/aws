@@ -48,5 +48,5 @@ jobs:
           sudo docker rm camp-app || true
           # 최신 박스 당겨오기
           sudo docker pull ${{ secrets.DOCKER_USERNAME }}/camp-app:latest
-          # 8080 포트로 새 박스 실행
+          # 8080 포트로 새 박스 실행한다.
           sudo docker run -d -p 8080:8080 --name camp-app ${{ secrets.DOCKER_USERNAME }}/camp-app:latest
