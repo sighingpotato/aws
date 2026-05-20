@@ -29,11 +29,19 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
 
+    # ARM 번역기
+    - name: 4.5. QEMU 세팅
+      uses: docker/setup-qemu-action@v3
+
+    - name: 4.6. Docker Buildx 세팅
+      uses: docker/setup-buildx-action@v3
+
     - name: 5. 도커 이미지 만들고 허브로 올리기(Push)
-      uses: docker/build-push-action@v4
+      uses: docker/build-push-action@v5
       with:
         context: .
         push: true
+        platforms: linux/arm64 # 맥 터미널에서 sudo docker ps 출력을 위함
         tags: ${{ secrets.DOCKER_USERNAME }}/camp-app:latest
 
     - name: 6. EC2에 접속해서 새 서버 띄우기
