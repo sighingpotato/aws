@@ -59,25 +59,26 @@
 ## 📸 과제 검증 결과
 
 ### **1. AWS Budget 설정**
-> ![CleanShot 2026-05-18 at 10.44.06@2x.png](attachment:ea1daecb-34a1-45d5-b972-ace17f83f962:CleanShot_2026-05-18_at_10.44.062x.png)
+> ![CleanShot 2026-05-18 at 10.44.06@2x.png](readmephoto/CleanShot%202026-05-18%20at%2010.44.06%402x.png)
 
 ### **2. EC2 Public IP**
-> ![CleanShot 2026-05-21 at 15.17.09@2x.png](attachment:d37e71d8-0f42-46be-8722-8e854c6f4037:CleanShot_2026-05-21_at_15.17.092x.png)
+> ![CleanShot 2026-05-21 at 15.17.09@2x.png](readmephoto/CleanShot%202026-05-21%20at%2015.17.09%402x.png)
 
 ### **3. Actuator Info 엔드포인트 URL**
 > http://43.201.84.202:8080/actuator/info
-> ![CleanShot 2026-05-21 at 15.24.46@2x.png](attachment:18e3db85-ee50-4c54-b261-fc6ba4838519:CleanShot_2026-05-21_at_15.24.462x.png)
+
+> ![CleanShot 2026-05-21 at 15.24.46@2x.png](readmephoto/CleanShot%202026-05-21%20at%2015.24.46%402x.png)
 
 ### **4. RDS 보안 그룹 스크린샷**
-> ![CleanShot 2026-05-20 at 15.07.37@2x.png](attachment:237b105f-fdaa-46eb-af3f-35ca8d859fd1:4f139c2d-8b12-4dfe-bfa0-4353807ac5cd.png)
+> ![CleanShot 2026-05-20 at 15.07.37@2x.png](readmephoto/CleanShot%202026-05-20%20at%2015.07.37%402x.png)
 
 ### **5. 프로필 이미지 조회 결과**
-* **발급 URL**: `https://my-name-camp-profile-bucket.s3.ap-northeast-2.amazonaws.com/profiles/1/3afab590-29c6-492f-a84f-88cfbca3c32f.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDUaDmFwLW5vcnRoZWFzdC0yIkYwRAIgEICn6mDLv%2B6T8UbRIogf7g6g0OXVkLAp1KBLW4978eMCIAaJlLEPmqdEEaSKXaCdjUxZmpuML%2FRW9G6nateYgM4JKtIFCP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNzM1MzkxMjE4MjEyIgyTmxzf%2FMDWV%2F1zRKUqpgU4YgMm2g0FmswRKm%2BDOCLN4uRp8K%2F%2BnwolrLgCRn%2Bta6M9pF%2FpDJZbrwm%2FCxGNrq9IPv%2BUYNCodtprMB%2B1qaU2hOJh7NYfOH%2B7vn23csLFPu3aiyq3RESFKfL2L4SP62U%2FdSC0ojGQ5erzWdOFLlipZUqc2oVlWRLc36o7uQXZftE7L2OfQlrj3%2Bn0Ix72phTonMFUyetMQg48tY9uy4p39634nCIsPowYb2K1%2F526FmKdRBicvZVfOrhBEjj8ZPXzO85IkBtqAYSAeSdkrM1WJplAjPseC98iskamzNEN%2BxqeZq8ES7tn5FDIU%2FCkAfcsH5J21%2Bxya5FXksLl8TVLJI6iM1zQPXElq85DCAB5iQs13gCTyunvU6fJgCuT7ivgt40d0fD8707IqiqAwa%2FT%2FVMPfrkhpD3CDupFTlGmLhyHMBaVjzN6Wqqj0kWQStia%2BdcxdOg8ssIhY3sO5zmlgMUc9RjVwVtS6DuySDoBzuyHKp%2BGugCogNc0Xsu%2BY%2FSqjpJwybu1hP4NrIfNVeXEFcK7lW3t2brsAwxqoHMujrXQeiBEkMABlhh7FLGBkO%2F27DHNZ%2F7vWm2s2a7ry6czroQ3b8B3w6DcMDKL9fVIOju%2BsmT%2BRqtXc1EsPLxvkSbEknrvtjQ5ZtgT9mJ5%2F%2FyrnRdKBX%2BgY4KQfbqlkbM4eDQYASdKOOGFx5Z6wK4sYkWGekTQayFHiRlXM8rYIBGVzAhv4Zpjz9IP3VCgqpwoWTnVgLQc0iLFY%2BSToTEVlUj5%2B85eRrlvZ%2B53q1kqZIZ2uIdEjQ1yeNey4qIAapQsL2Nj5SFFn8sbBzyKNNPk%2B4uD0qFkzbqkRbopCZVoUWgXLhrjBYCbikTU0irVeydVn5LEg8kYhboh5j6chrZeBfhZJ5Yhtw0wmKa60AY6sgGFIp2zJB8LuzkfFE1zfHMxD1cpaz6hsjhXpqBbxgXfEMSQCxC4c7YBB7WLpVCakLiO%2FAdJ%2FSJsMgQyvOX0LVgx9yBeu4n3IK4DkCdm%2BJyjnCGS762oGBhMTmX5yeq9ch9RESYeNELcn%2BD3%2FIlmcgSKk37w6iA6TMxch7NECqQofeQHiZHmYq0XI1%2BA1aOoQr208AXrbqf4Uohs3j%2B4qBof96Kw%2BepsjuSZA1axcG0vxtcJ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260521T060938Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIA2WOF3PISJOCFHMU7%2F20260521%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Expires=604800&X-Amz-Signature=6c0101f53ca9122d13f72fa693f5810e6874a478e2fb826dd337f662a805c2bb`
-* **만료 기한**: `2026.05.28 15:10:02`
-> ![CleanShot 2026-05-21 at 15.10.02@2x.png](../../../Library/Application%20Support/CleanShot/media/media_t1aw1ljd3s/CleanShot%202026-05-21%20at%2015.10.02%402x.png)
+* **발급 URL**: `https://my-name-camp-profile-bucket.s3.ap-northeast-2.amazonaws.com/profiles/1/0a2bbc40-f3bc-4643-8753-cb3ceb675acd.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEEoaDmFwLW5vcnRoZWFzdC0yIkYwRAIgEKp3zpg2%2FLgMJo%2BdWqcIRV98778arhp0RCRM9Z0yUR0CIHVPNFlUOCeOJfwsChs9GCOPVvtZjpVtgSk6PJc7WU6oKskFCBMQABoMNzM1MzkxMjE4MjEyIgw7%2B42dEQSU8RYMeacqpgVk4Qz5fXhpeAXCJbUe5GQDVzCec2vkfjcKp6D1sw5oQjcwGGNN5oncAkDSF%2FwLLfmOQ%2FhpgZRVO46mAT%2FExjuPQKrnMHl83cIuUihjJ9I3rIx5IHfeaOubrUL5nMhPszIBYNEPmNmJr9cRzvwWO7%2BWedBpGcbMLX78yf%2FbfNz1uZ3%2FKZDe49A%2BmX4wt4AmjzeAUoK7UHxuw%2FC%2FQFd3%2BPyThXWFTZXvgbPq8wIFEnLZkXO81K5DjaFA0iRX6vcgmWs4PHGnU9f8YOnWxoIbMIVNOv4vWmltww0Rer7HTJqfau8FGSshIdxDhLZcSZ%2BXAWOLsaeOCiPmRzXffbnAM6ZCRtL3Iz4l0ubUfFoAY7Gj%2Bv157LXHi9BseXybcoIXzUs6j7owTOVdaP4iZKc78V6hxE2VssRUp%2FzNqK3D3okKVINYI3NMqIB6Layh1rmWtap%2By%2FPRZ%2F0anyirbV8EdxA4mWZUbCB7m8kI%2BLqO5hnggSIKOllkcY6S%2FOGUqBQ15lLR7C1ys8QEXSttdvqMsbC8aSmxxmtUbVRWsx5xp6XvEGrSjOJs498Z3nRcmMvU5bkOZEjaJy54zk1zyA51L6KQk8joCSvUpVS0aNR%2BOIl5A3IRCcC56073oE2CqnF%2BgovlAXkNIvhn8ujXyHW5xpQOwqIqvLheR2sdnA9q8c2Ik9TpM5V%2FwU01Ov5w0PrAvMTpNkquahz2BQR4QRhNvrqGrRFO%2BfTFQCzxPgER0BQy2IRqDW49vh0Xi6jFVXrUiS4ye%2B931Sho018VzMpluf8K3moPwMg8XhmqLhQtAoSXCq0U5NI72q3VLhcm3c29e1SBWUzrykXLj4WTEAg3yfPzJRXSPAURBbv5EMGG2%2B8cLCikTUNqifODF5hYU3HwzXioQtJipBcw%2B%2FK%2B0AY6sgE50SCYWLllcRkQtYhhuKtYTrJpbDQTbcSmRybkM8e9ayVlAcnFWh8IiKFsZ%2Bvx03GMeSGqb%2FMMcNZrWzhSMpuLwGax9a1PwnVf5dtNnfZX0%2BcyhcoF3EyTQZ1NO7uRV1Rsrb%2FfG3ivwDhzEVBFudWHTqLxvS5ClJf1iUSJ9eBJJSrEvNCKF8uCxIOFtQmHAlYVYTB5VC4whyGijLdKHzNCCRoZAYYN5nmHzdab8W0fcPCP&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260522T021033Z&X-Amz-SignedHeaders=host&X-Amz-Credential=ASIA2WOF3PISDQFGSPKY%2F20260522%2Fap-northeast-2%2Fs3%2Faws4_request&X-Amz-Expires=604800&X-Amz-Signature=183b5c8cd02be9d9cd42b3635773e602dfae148c30e669601870f417c6e1a085`
+* **만료 기한**: `2026.05.29 11:10:33`
+> ![CleanShot 2026-05-22 at 11.12.02@2x.png](readmephoto/CleanShot%202026-05-22%20at%2011.12.02%402x.png)
 
 ### **6. GitHub Actions 배포 성공**
-> ![CleanShot 2026-05-20 at 12.28.07@2x.png](attachment:35039f1e-49c7-4274-ae2e-10aff668e473:3b409154-5639-44c7-8ab1-b522c9d9545d.png)
- 
+> ![CleanShot 2026-05-20 at 12.28.07@2x.png](readmephoto/CleanShot%202026-05-20%20at%2012.28.07%402x.png)
+
 ### **7. EC2 컨테이너 실행 확인 (`sudo docker ps`)**
-> ![CleanShot 2026-05-20 at 12.27.49@2x.png](attachment:9e2b0c88-4def-49b3-ac89-8ee6ba8f82de:4d92679d-47f2-4c3f-8211-c6b01e45b149.png)
+> ![CleanShot 2026-05-20 at 12.27.49@2x.png](readmephoto/CleanShot%202026-05-20%20at%2012.27.49%402x.png)
